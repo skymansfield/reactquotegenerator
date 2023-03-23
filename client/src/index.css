@@ -1,0 +1,12 @@
+body {
+  font-family: 'Courier New', Courier, monospace ;
+  background-image: url('../src/pexels-belle-co-402028.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

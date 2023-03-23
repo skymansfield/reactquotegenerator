@@ -1,0 +1,28 @@
+.title{
+  margin-top:20px ;
+  font-size: 90px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #ba1422;
+
+}
+.box{
+  height: 300px;
+  font-size: 18px;
+  padding: 8px 25% 0px 10px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #01858e;
+}
+#new-quote{
+  margin-left: 28%;
+  font-size: 23px;
+  padding: 10px 10px 10px 10px;
+  background-color: #ba1422;
+  font-weight: bold;
+  text-shadow: .5px .5px #01858e;
+  border-radius: 10%;
+}
+#twitter-img {
+  width: 5%;
+  position: absolute;
+  margin-top: 20px;
+}
